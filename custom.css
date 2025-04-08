@@ -3,8 +3,8 @@ body, .remark-slide-content {
 }
 
 .remark-slide-content {
-  background-color: #E0EEEE !important; /* light modern gray */
-  color: #333; /* dark text for contrast */
+  background-color: #E0EEEE !important; 
+  color: #333; 
 }
 
 .remark-slide-content h1,
